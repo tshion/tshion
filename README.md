@@ -11,7 +11,7 @@
 
 
 ## Links
-* [blog](https://mokumokulog.netlify.app/)
+* [blog](https://mokumokulog.netlify.app/) ([New Version](https://mklog.netlify.app/))
 * [connpass](https://connpass.com/user/Shion74431841/)
 * [DockerHub](https://hub.docker.com/u/tshion)
 * [Twitter](https://twitter.com/shion_engineer)
