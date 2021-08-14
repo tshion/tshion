@@ -11,7 +11,15 @@
 
 
 ## Links
-* [blog](https://mokumokulog.netlify.app/) ([New Version](https://mklog.netlify.app/))
+* [blog](https://mokumokulog.netlify.app/) ([Next Version](https://mklog.netlify.app/))
 * [connpass](https://connpass.com/user/Shion74431841/)
 * [DockerHub](https://hub.docker.com/u/tshion)
 * [Twitter](https://twitter.com/shion_engineer)
+
+
+
+## Offer?
+* Findy(Shion)
+* Forkwell(@tshion)
+* [LAPRAS](https://lapras.com/public/KWNGP2D)
+* [TechFeed](https://techfeed.io/people/@shion_engineer)
