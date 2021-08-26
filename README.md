@@ -20,7 +20,12 @@
 
 
 ## Offer?
-* Findy(Shion)
-* Forkwell(@tshion)
+* Findy: Shion
+* Forkwell: @tshion
 * [LAPRAS](https://lapras.com/public/KWNGP2D)
+* Offers: shion
+* PayCareer
 * [TechFeed](https://techfeed.io/people/@shion_engineer)
+* ビズリーチ
+* マイナビ
+* レバテックキャリア
