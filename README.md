@@ -26,5 +26,5 @@
 --- | --- | ---
 ・Findy: Shion<br />・**Forkwell: @tshion**<br />・**[LAPRAS](https://lapras.com/public/KWNGP2D)**<br />・**Offers: shion**<br />・**PayCareer: (本名)**<br />・[TechFeed](https://techfeed.io/people/@shion_engineer)<br />・転職ドラフト(予定) | ・マイナビ<br />・レバテックキャリア: (本名) | ・ビズリーチ: (本名)
 
-※**太字** になっているサービスは、連絡がとりやすいかもです
+※**太字** になっているサービスは、連絡がとりやすいかもです<br />
 ※敬称略で失礼します
