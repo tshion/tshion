@@ -22,9 +22,13 @@
 ## Job Contact
 下記サービスを併用しているため、連絡が重複してしまったら申し訳ございません。
 
-ダイレクト | エージェント経由 | 両方
---- | --- | ---
-・Findy: Shion<br />・**Forkwell: @tshion**<br />・**[LAPRAS](https://lapras.com/public/KWNGP2D)**<br />・Offers: shion<br />・PayCareer: (本名)<br />・[TechFeed](https://techfeed.io/people/@shion_engineer)<br />・転職ドラフト: tshion | ・マイナビIT エージェント: (本名)<br />・レバテックキャリア: (本名) | ・ビズリーチ: (本名)
+* **Forkwell: @tshion**
+* **[LAPRAS](https://lapras.com/public/KWNGP2D)**
+* Offers: tshion
+* PayCareer: (本名)
+* [TechFeed](https://techfeed.io/people/@shion_engineer)
+* [転職ドラフト](https://job-draft.jp/users/60683)
+* ビズリーチ: (本名)
 
 ※**太字** になっているサービスは、連絡がとりやすいかもです<br />
 ※敬称略で失礼します
