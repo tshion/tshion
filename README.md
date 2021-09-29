@@ -21,14 +21,17 @@
 
 ## Job Contact
 下記サービスを併用しているため、連絡が重複してしまったら申し訳ございません。
+敬称略で失礼します。
 
-* **Forkwell: @tshion**
-* **[LAPRAS](https://lapras.com/public/KWNGP2D)**
+### アクティブ
+* Forkwell: @tshion
+* [LAPRAS](https://lapras.com/public/tshion)
 * Offers: tshion
-* PayCareer: (本名)
+* PayCareer
 * [TechFeed](https://techfeed.io/people/@shion_engineer)
 * [転職ドラフト](https://job-draft.jp/users/60683)
-* ビズリーチ: (本名)
+* ビズリーチ
 
-※**太字** になっているサービスは、連絡がとりやすいかもです<br />
-※敬称略で失礼します
+### 非アクティブ
+* Findy: tshion
+* paiza
