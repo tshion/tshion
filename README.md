@@ -24,14 +24,14 @@
 敬称略で失礼します。
 
 ### アクティブ
-* [LAPRAS](https://lapras.com/public/tshion)
 * PayCareer
-* [転職ドラフト](https://job-draft.jp/users/60683)
 * ビズリーチ
 
 ### 非アクティブ
 * Findy: tshion
 * Forkwell: @tshion
+* [LAPRAS](https://lapras.com/public/tshion)
 * Offers: tshion
 * paiza
 * [TechFeed](https://techfeed.io/people/@shion_engineer)
+* [転職ドラフト](https://job-draft.jp/users/60683)
