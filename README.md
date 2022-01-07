@@ -11,18 +11,6 @@
 
 
 ## Links
-Blog | Library | SNS
---- | --- | ---
-・[current](https://mokumokulog.netlify.app/)<br />・([next](https://mklog.netlify.app/)) | ・[DockerHub](https://hub.docker.com/u/tshion) | ・[connpass](https://connpass.com/user/Shion74431841/)<br />・[teratail](https://teratail.com/users/tshion)<br />・[Twitter](https://twitter.com/shion_engineer)
-
-
-
-## Job Contact
-下記サービスにアカウントがあるため、連絡が重複してしまったら申し訳ございません。
-敬称略で失礼します。
-
-|  |  |  |
---- | --- | ---
-Findy: tshion | Forkwell: @tshion | [LAPRAS](https://lapras.com/public/tshion)
-Offers: tshion | paiza | PayCareer
-[TechFeed](https://techfeed.io/people/@shion_engineer) | [転職ドラフト](https://job-draft.jp/users/60683) | ビズリーチ
+Blog | Library | SNS | Job Contact
+--- | --- | --- | ---
+・[current](https://mokumokulog.netlify.app/)<br />・([next](https://mklog.netlify.app/)) | ・[DockerHub](https://hub.docker.com/u/tshion) | ・[connpass](https://connpass.com/user/Shion74431841/)<br />・[teratail](https://teratail.com/users/tshion)<br />・[Twitter](https://twitter.com/shion_engineer) | ・Findy: tshion<br />・Forkwell: @tshion<br />・[LAPRAS](https://lapras.com/public/tshion)<br />・Offers: tshion<br />・paiza<br />・PayCareer<br />・[TechFeed](https://techfeed.io/people/@shion_engineer)<br />・[転職ドラフト](https://job-draft.jp/users/60683)<br />・ビズリーチ
