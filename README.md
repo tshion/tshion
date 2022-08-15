@@ -1,6 +1,6 @@
 ## Stats(※[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) より)
 <span>
-  <img align="center" alt="よく使う言語の割合" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=html,shell&langs_count=5&username=tshion" />
+  <img align="center" alt="よく使う言語の割合" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css,dockerfile,html,makefile,scss&langs_count=5&username=tshion" />
 </span>
 <span>
   <img align="center" alt="直近のGitHub 活動概要" src="https://github-readme-stats.vercel.app/api?count_private=true&show_icons=true&username=tshion" />
