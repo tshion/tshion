@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="よく使う言語の割合" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css,dockerfile,html,makefile,scss,shell&layout=compact&username=tshion" />
+    <img align="left" alt="よく使う言語の割合" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css,dockerfile,html,makefile,scss,shell&layout=compact&username=tshion" />
 </a>
 
 Blog | Libraries | Job Contact
