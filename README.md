@@ -2,12 +2,13 @@
     <img align="left" alt="よく使う言語の割合" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=css,dockerfile,html,makefile,scss,shell&langs_count=6&username=tshion" />
 </a>
 
-Blog | Libraries | Job Contact
---- | --- | ---
-・[current](https://mokumokulog.netlify.app/)<br />・([next](https://mklog.netlify.app/)) | ・[DockerHub]<br />・GitHub(SwiftPM)<br />・[JitPack] | **Active**<br />・[LAPRAS]: tshion<br />・[ビズリーチ]<br /><br />**Inactive**<br />・[Findy]: tshion<br />・[Forkwell]: @tshion<br />・[Offers]: tshion<br />・[paiza]<br />・[PayCareer]<br />・[TechFeed]: shion<br />・[転職ドラフト]: tshion
+Contents | Job Contact
+--- | ---
+**Blog**<br />・[current](https://mokumokulog.netlify.app/)<br />・([next](https://mklog.netlify.app/))<br /><br />**Events**<br />・[connpass]<br /><br />**Libraries**<br />・[DockerHub]<br />・GitHub(SwiftPM)<br />・[JitPack] | **Active**<br />・[LAPRAS]: tshion<br />・[ビズリーチ]<br /><br />**Inactive**<br />・[Findy]: tshion<br />・[Forkwell]: @tshion<br />・[Offers]: tshion<br />・[paiza]<br />・[PayCareer]<br />・[TechFeed]: shion<br />・[転職ドラフト]: tshion
 
 
 
+[connpass]: https://connpass.com/user/Shion74431841/open/
 [DockerHub]: https://hub.docker.com/u/tshion
 [Findy]: https://findy-code.io/
 [Forkwell]: https://forkwell.com/
