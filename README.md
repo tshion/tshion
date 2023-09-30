@@ -4,13 +4,15 @@
 
 Blog | Libraries | Job Contact
 --- | --- | ---
-・[current](https://mokumokulog.netlify.app/)<br />・([next](https://mklog.netlify.app/)) | ・[DockerHub](https://hub.docker.com/u/tshion)<br />・GitHub(SwiftPM)<br />・[JitPack](https://jitpack.io/) | **Active**<br />・[LAPRAS]: tshion<br />・[ビズリーチ]<br /><br />**Inactive**<br />・[Findy]: tshion<br />・[Forkwell]: @tshion<br />・[Offers]: tshion<br />・[paiza]<br />・[PayCareer]<br />・[TechFeed]<br />・[転職ドラフト]
+・[current](https://mokumokulog.netlify.app/)<br />・([next](https://mklog.netlify.app/)) | ・[DockerHub]<br />・GitHub(SwiftPM)<br />・[JitPack] | **Active**<br />・[LAPRAS]: tshion<br />・[ビズリーチ]<br /><br />**Inactive**<br />・[Findy]: tshion<br />・[Forkwell]: @tshion<br />・[Offers]: tshion<br />・[paiza]<br />・[PayCareer]<br />・[TechFeed]: shion<br />・[転職ドラフト]: tshion
 
 
 
+[DockerHub]: https://hub.docker.com/u/tshion
 [Findy]: https://findy-code.io/
 [Forkwell]: https://forkwell.com/
-[LAPRAS]: https://lapras.com/
+[JitPack]: https://jitpack.io/
+[LAPRAS]: https://lapras.com/public/tshion
 [Offers]: https://offers.jp/
 [paiza]: https://paiza.jp/
 [PayCareer]: https://pay-career.com/
