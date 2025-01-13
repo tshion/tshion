@@ -7,6 +7,9 @@
 
 ## Libraries
 * [DockerHub](https://hub.docker.com/u/tshion)
-* GitHub(SwiftPM)
+* GitHub
+    * npm
+    * SwiftPM
+* [GitHub Marketplace](https://github.com/marketplace?query=tshion)
 * GitHub Packages
 * [JitPack](https://jitpack.io/)
