@@ -1,9 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
-    <img align="left" alt="よく使う言語の割合" src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=6&username=tshion" />
-</a>
-
-## [Blog](https://mklog.netlify.app/)
-* [Profile](https://mklog.netlify.app/profile)
+## [Profile](https://mklog.netlify.app/profile)
+* [Blog](https://mklog.netlify.app/)
+* Activity summary -> [LAPRAS](https://lapras.com/public/tshion)
+* Tech meetup -> [connpass](https://connpass.com/user/Shion74431841/open/)
 
 ## Libraries
 * [DockerHub](https://hub.docker.com/u/tshion)
